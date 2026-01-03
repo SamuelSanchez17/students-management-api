@@ -4,9 +4,9 @@ API REST desarrollada en Java para la gestión de alumnos de una academia, con p
 ## 🚀 Características principales
 - CRUD completo de alumnos
 - Creación automática de la base de datos y tablas
-- Arquitectura basada en capas (Controller, Service, Repository)
+- Arquitectura basada en capas (Controller, Service, Repository, Entity)
 - Conexión a MySQL
-- API REST lista para integrarse con aplicaciones web o móviles
+- API REST con endpoints escalables y verificación de respuestas y códigos de estado (HTTP Status Codes) vía Postman
 
 ## 🛠️ Tecnologías utilizadas
 - Java
