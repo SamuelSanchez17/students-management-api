@@ -16,7 +16,7 @@ API REST desarrollada en Java para la gestión de alumnos de una academia, con p
 - Spring Boot
 
 👨‍💻 Autor:
-markdown
+<br>
 Samuel Sánchez Guzmán
-markdown
+<br>
 Desarrollador de software
